@@ -1,0 +1,11 @@
+# Light is at (1,0,1)
+# FOV is effectively 90-degrees
+# Green sphere reflects off red sphere (in shadow) and back onto green sphere
+# Red sphere reflects "black" off green sphere and thus 0 contribution and no more bounces
+
+I 400 400
+P 0.005
+M 2
+L 1 0 1 1 1 1
+S -1.1 0 -2 0.75 0.1 0.8 0.1 
+S  1.1 0 -2 0.75 0.8 0.1 0.1 
