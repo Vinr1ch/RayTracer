@@ -1,1 +1,3 @@
-This is a basic raytracer designed for a class project.  Give and 3D world and definitions in a files, the program will try and create a render image using raytracing alorthms.
+This is a basic raytracer designed for a class project.  Give and 3D world and definitions in a files, the program will try and create a render image using
+ray tracing formulas from the light sources.  Viewing any of the text files will show examples of what are needed for input in the world.  The main files
+that are used in this are main.cpp, vector.h, and helperfunctions.h.  Currently runs in visual studio 2019
